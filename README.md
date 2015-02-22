@@ -1,7 +1,8 @@
 ## Simple Algebra Practice project documentation
 
 ### Summary
-This project lets the user do algebra problems with 2 equations and 2 unknowns: *x* and *y*. The idea is to give the user the opportunity to practice solving these relatively simple problems so that she or he will gain confidence.
+This project lets the user do algebra problems with 2 equations and 2 unknowns: *x* and *y*. 
+The idea is to give the user the opportunity to practice solving these relatively simple problems so that she or he will gain confidence in learning algebra.
 
 ### Explanation
 The possible values for each of the unknowns are integers ranging from -5 to 5, excluding 0. 
