@@ -15,7 +15,7 @@ Two numeric input boxes and a "Submit" button provide the interface by which the
 
 ### Play the game
 - The app can be accessed at this URL:
-[http://jerrytsai.shinyapps.io/project](http://jerrytsai.shinyapps.io/project)
+[https://jerrytsai.shinyapps.io/project](https://jerrytsai.shinyapps.io/project)
 
 - The pitch for the app (i.e., the slides) can be accessed at this URL:
 [https://jerrystsai.github.io/](https://jerrystsai.github.io/)
