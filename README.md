@@ -14,7 +14,10 @@ The user is given two opportunities to solve the problem. If the user cannot sol
 Two numeric input boxes and a "Submit" button provide the interface by which the user's proposed answers are evaluated.
 
 ### Play the game
-The app may be accessed at this URL:
+- The app can be accessed at this URL:
 [http://jerrytsai.shinyapps.io/project](http://jerrytsai.shinyapps.io/project)
+
+- The pitch for the app (i.e., the slides) can be accessed at this URL:
+[https://jerrystsai.github.io/](https://jerrytsai.github.io/)
 
 
